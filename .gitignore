@@ -1,0 +1,11 @@
+*.Rout
+*.Rproj
+*.out
+.*.swp
+.RData
+.Rhistory
+.Rproj.user
+.idea
+__pycache__
+data
+output
